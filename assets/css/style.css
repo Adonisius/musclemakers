@@ -36,7 +36,14 @@ footer {
 
 #introdiv {
     margin-top: 20px;
-    max-width: 100%;
+    border: 1px solid black;
+    width: max-content;
+}
+
+#biceps{
+    margin-top: 20px;
+    border: 1px solid black;
+    width: max-content;
 }
 
 main > div{
@@ -47,11 +54,22 @@ h2{
     font-size: x-large;
 }
 
-a{
+footer > a{
     float: right;
     border-right: 20px;
     margin-right: 20px;
     margin-top: 17px;
     color: rgb(255, 255, 255);
     font-size: 40px;
+}
+
+a {
+    color: black;
+}
+
+img {
+    max-width: 100px;
+    max-height: 100px;
+    position: absolute;
+    float: right;
 }
