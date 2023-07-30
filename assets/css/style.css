@@ -1,20 +1,36 @@
  /* Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 
-/* Generic Styling */
-body{
-    color: white;
+body {
     display: flex;
     flex-direction: column;
+    min-height: 100vh;
+    font-family: 'Anton', sans-serif;
 }
 
-#mmheader{
-    font-family: cursive;
-    font-style: italic;
-    font-size: large;
-    background-color: rgb(9, 80, 9);
-    color: antiquewhite;
+/* Generic Styling */
+
+header {
+    background-color: darkgreen;
+    max-height: auto;
+    font-family: 'Anton', sans-serif;
+    background-image: url(/assets/images/gymv2.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+
+main{
+    display: flex;
+    flex: 1 0 auto;
+    min-height: 100vh;
+}
+
+footer {
+    background-color: darkgreen;
+    position: static;
+}
+
+/* Other Styling */
 
 .apr {
     position: relative;
@@ -22,13 +38,13 @@ body{
 
 #introdiv{
     margin-top: 50px;
+    float: right;
 }
 
 h2{
     font-size: x-large;
 }
 
-footer{
-    position: fixed;
+#introdiv{
+    float: right;
 }
-
