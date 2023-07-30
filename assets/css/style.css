@@ -25,31 +25,33 @@ header {
 }
 
 main{
-    display: flex;
     flex: 1 0 auto;
-    min-height: 100vh;
 }
 
 footer {
     background-color: darkgreen;
-    position: static;
 }
 
 /* Other Styling */
 
-.apr {
-    position: relative;
+#introdiv {
+    margin-top: 20px;
+    max-width: 100%;
 }
 
-#introdiv{
-    margin-top: 50px;
-    float: right;
+main > div{
+    max-width: 75%;
 }
 
 h2{
     font-size: x-large;
 }
 
-#introdiv{
+a{
     float: right;
+    border-right: 20px;
+    margin-right: 20px;
+    margin-top: 17px;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
 }
