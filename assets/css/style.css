@@ -40,13 +40,14 @@ footer {
 #introdiv {
     margin-top: 20px;
     border: 1px solid black;
-    width: max-content;
+    width: 100%;
+    min-height: fit-content;
 }
 
 #biceps {
     margin-top: 20px;
     border: 1px solid black;
-    width: max-content;
+    width: 100%;
 }
 
 #chest {
@@ -68,6 +69,12 @@ footer {
 }
 
 #legs {
+    margin-top: 20px;
+    border: 1px solid black;
+    width: max-content;
+}
+
+#abs {
     margin-top: 20px;
     border: 1px solid black;
     width: max-content;
