@@ -1,6 +1,34 @@
+ /* Google fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+/* Generic Styling */
+body{
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
 #mmheader{
     font-family: cursive;
     font-style: italic;
     font-size: large;
-    background-color: darkgreen;
+    background-color: rgb(9, 80, 9);
+    color: antiquewhite;
 }
+
+.apr {
+    position: relative;
+}
+
+#introdiv{
+    margin-top: 50px;
+}
+
+h2{
+    font-size: x-large;
+}
+
+footer{
+    position: fixed;
+}
+
