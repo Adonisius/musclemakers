@@ -1,39 +1,42 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Muscle Makers Project
 
-Welcome,
+This project was honestly the result of a rushed and under pressure time constraint. I made many mistakes, and I only started the day before it was due because
+of my own personal things. I should have put in the time, but unfortunately this is what I was able to smack together a few hours before the deadline.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Features
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **July 26th, 2023**
+This website gives a ague description of each of the core 6 muscle groups, providing general exercises for beginners and pros alike to workout at home.
+Included with these exercises are links to videos describing the exercise and giving an example of how to properly complete said exercise.
+It has a flimsy form page that I admit could have been improved seven fold, but I just didn't have the time and had to move on to other things.
 
-## Codeanywhere Reminders
+### Features Left Out
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+I was really hoping to try and include a fake shop front, selling things like gym clothing, supplements, etc but again, I was just strapped for time.
 
-`python3 -m http.server`
+## Issues and Bugs
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+Throughout making the website I was always retroactively checking what each change had on the final product. Whether it be small or large, I was always paying
+close attention to any unwelcome changes throught the coding process. There are many bugs that I did not have the time to fix, and many things I would change as well.
+The website being viewed on other screens is another major slip up that completely dodged my thoughts through out the entire creation process, and only realised
+towards the end just how imperative it really was, but it was already too late.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+## References and Links
 
-`http_server`
+Throughout the coding, I used a multitude of websites to gather the information I present on screen. Here are the links to the websites I used during the process;
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+<https://www.codesdope.com/blog/article/adding-outline-to-text-using-css/>
+<https://www.wikipedia.org/>
+<https://fontawesome.com/>
+<https://jigsaw.w3.org/css-validator/#validate_by_input>
+<https://www.shape.com/fitness/workouts/back-workout-6-moves-blast-annoying-bra-bulge>
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+## Deployment
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+I went to my GitHub settings, under GitHub Pages I deployed from a main branch under /root.
 
-To log into the Heroku toolbelt CLI:
+## Final Thoughts
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+This project was a complete disaster. I procrastinated and let myself crack under the pressure of everything, allowing it to seep in to my project and
+coding work. While it may have been a total trainwreck, I believe it has really opened my eyes to the importance of managing my time for effectively,
+and I have a newfound resolve to ensure the best of my ability rather than half effort. I apologise for this final product, and I will be sure to keep
+on top of my time and managing my responsibilities more effectively.
